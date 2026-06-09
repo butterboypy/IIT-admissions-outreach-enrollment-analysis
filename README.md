@@ -189,3 +189,5 @@ This report outreach over 15000+ unique applicants and make calls over 33000+ to
 * **Intervention for "Stagnant Leads":** Assign a "Senior Closer" to assist Prajwal with the 1,100+ "Application Required" leads currently stalled in the pipeline.
 
 ---
+# university-admissions-outreach-enrollment-analysis
+"End-to-end enrollment funnel analysis for Illinois Institute of Technology — auditing BPO caller performance, campaign ROE, and geographic outreach efficiency across 33,000+ calls and 15,000+ applicants (2023–2024)."

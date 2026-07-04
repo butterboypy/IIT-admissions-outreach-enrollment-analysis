@@ -14,7 +14,7 @@
 * **Source:** Excelerate Portal - Internship
 * **Prepared By:** Krishnendu Das
 
-Illinois Institute of Technology (IIT) is a private research university in Chicago, United States. In 1890 Illinois Institute of Technology was founded to lift up people from all backgrounds with education that would help them meet the needs of the age. Rankings based on the United States Department of Education College Scorecard, which offers the public access to years of federal government data on U.S. colleges and universities, show that more than 130 years later, Illinois Tech is still fulfilling its mission.
+Illinois Institute of Technology (IIT) is a research university in Chicago, United States. In 1890 Illinois Institute of Technology was founded to lift up people from all backgrounds with education that would help them meet the needs of the age. Rankings based on the United States Department of Education College Scorecard, which offers the public access to years of federal government data on U.S. colleges and universities, show that more than 130 years later, Illinois Tech is still fulfilling its mission.
 
 Illinois Tech’s Campaign was to outreach over 15,000+ applicants and make calls over 33,000+ to enroll over 100+ global students from (2023–2024). The available Education Marketing data spans various dimensions and metrics including total & unique applicants, outreach per country, monthly & hourly enrollment trend and university’s year over year enrollments.
 

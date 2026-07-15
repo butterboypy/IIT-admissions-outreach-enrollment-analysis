@@ -13,7 +13,7 @@ IIT ran a global recruitment campaign — 15,000+ applicants outreached and 33,0
 
 ### Interactive Dashboard Demonstration
 
-![Dashboard Demo](assets/Dashboard.gif)
+![Dashboard Demo](4.%assets/Dashboard.gif)
 
 **Interactive Live Dashboard:** [Explore the Live Fabric Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMDM0MzUzNTgtZWQ5Ni00Y2VlLWIyOGItZTVhNzNjYjhiNjZkIiwidCI6IjUzYTg5ZjhiLTY2ZmItNDkzOC05NzM5LTZkMjg4MjIwNWUyMyJ9)
 

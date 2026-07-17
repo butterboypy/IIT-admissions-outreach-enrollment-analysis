@@ -1,6 +1,7 @@
-# University Admissions: Outreach & Enrollment Funnel Analysis
+# Illinois Tech: Campaign Outreach & Enrollment Efficiency Analysis
 
 **Client:** Illinois Institute of Technology (IIT) — Academic Recruitment
+
 **Complete Documentation:** [Read the Full Strategic Report (PDF)](https://github.com/butterboypy/university-admissions-outreach-enrollment-analysis/blob/main/University%20Admission%20Analysis%20Report.pdf)
 
 ## 1. Project Overview
